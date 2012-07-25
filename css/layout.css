@@ -1,0 +1,29 @@
+﻿*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+p, ul, h1, h2, h3, h4, h5, h6
+{
+    margin: 0px 0px 10px 0px;   
+}
+
+header, footer section, section#content
+{
+    width: 900px;
+    margin: 0px auto;
+    padding: 30px;
+}
+
+ul.float
+{
+    display: block;    
+    overflow: hidden;    
+}
+
+ul.float li
+{
+    float: left;
+    margin: 0px 10px 0px 0px;    
+}

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jsSlideshow", ".", "{DD9E7A4E-C330-4E91-A108-E3D07380E6E3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/jsSlideshow"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Desarrollo\GitHub\jsSlideshow\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\jsSlideshow\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/jsSlideshow"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Desarrollo\GitHub\jsSlideshow\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\jsSlideshow\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2014"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9E7A4E-C330-4E91-A108-E3D07380E6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9E7A4E-C330-4E91-A108-E3D07380E6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
